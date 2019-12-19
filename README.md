@@ -19,5 +19,6 @@ Visit [mighil.com](https://mighil.com/dark-mode-generatepress/). I use a modifie
 
 ## How to import Jot
 
-1. Download the [https://raw.githubusercontent.com/mighildotcom/jot/master/generate-settings-export-12-18-2019.json](JSON file) from the repo. Import it to your GeneratePress settings. Accessible via Dashboard → Appearance → GeneratePress → Import Settings.
-2. Copy and paste the [https://raw.githubusercontent.com/mighildotcom/jot/master/additional.css](CSS) from the repo to the Additional CSS section. Accessible via Dashboard → Appearance → Customize → Additional CSS.
+1. Download the [JSON file](https://github.com/mighildotcom/jot/blob/master/generate-settings-export-12-18-2019.json) from the repo. Import it to your GeneratePress settings. Accessible via Dashboard → Appearance → GeneratePress → Import Settings.
+
+2. Copy and paste the [CSS](https://github.com/mighildotcom/jot/blob/master/additional.css) from the repo to the Additional CSS section. Accessible via Dashboard → Appearance → Customize → Additional CSS.

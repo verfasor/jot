@@ -1,0 +1,91 @@
+.main-navigation {
+	border-top: 1px solid #efefef;
+	border-bottom: 1px solid #efefef;
+}
+code {
+	background: #72b1db;
+	color: #fafafa;
+	padding: 2px;
+	border-radius: 3px;
+}
+
+img {
+	border-radius: 5px;
+}
+kbd,
+pre,
+samp {
+	font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+	overflow-x: auto;
+	margin: 1.5em 0 2em;
+	padding: 20px;
+	max-width: 100%;
+	color: #fafafa;
+	font-size: 0.97rem;
+	line-height: 1.5em;
+	background: #191919;
+	border-radius: 3px;
+}
+blockquote {
+	padding: 15px;
+	quotes: "\201C""\201D""\2018""\2019";
+	font-size: 96%;
+	font-style: inherit;
+	margin: 0 0 1.18em;
+	position: relative;
+	border-left: 3px solid #72b1db;
+}
+/* Dark Mode for GeneratePress*/
+@media (prefers-color-scheme: dark) {
+	body,
+	.page-hero {
+		background-color: #121212;
+	}
+	.entry-content,
+	.entry-summary,
+	h1,
+	h2,
+	h3,
+	h4,
+	.main-title,
+	.main-title a,
+	.main-title a:hover,
+	.main-title a:visited,
+	.wp-caption .wp-caption-text,
+	br,
+	.entry-title a,
+	.entry-title a:visited {
+		color: hsla(0, 0%, 100%, .75);
+	}
+	top,
+	.generate-back-to-top {
+		color: hsla(0, 0%, 100%, .75);
+		background-color: #525252;
+		text-decoration: none;
+	}
+	top,
+	.generate-back-to-top:hover {
+		color: hsla(0, 0%, 100%, .75);
+		background-color: #72b1db;
+		text-decoration: none;
+	}
+	.main-navigation {
+		border-bottom: 1px solid #333;
+		border-top: 1px solid #333;
+	}
+	code {
+		background: #72b1db;
+		color: #121212;
+		padding: 2px;
+		border-radius: 3px;
+	}
+	img,
+	code,
+	kbd,
+	pre,
+	samp,
+	blockquote {
+		-webkit-filter: grayscale(1);
+		filter: grayscale(1);
+	}
+}

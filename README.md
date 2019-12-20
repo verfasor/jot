@@ -15,7 +15,7 @@ This template heavily relies on  prefers-color-scheme CSS media feature. Refer t
 
 ## Demo
 
-Visit [mighil.com](https://mighil.com/dark-mode-generatepress/). I use a modified version of Jot.
+Visit [jot.sh](https://jot.sh/). 
 
 ## How to import Jot
 

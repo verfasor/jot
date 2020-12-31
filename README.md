@@ -1,12 +1,12 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil)
 
-Jot is an ultra-minimal starter site template for [GeneratePress Premium](https://8mp.me/recommends/generatepress/). It comes with an automatic dark mode for supported systems and browsers. 
+Jot is an ultra-minimal starter site template for [GeneratePress Premium](https://migftw.com/recommends/generatepress/). It comes with an automatic dark mode for supported systems and browsers. 
 
 <p align="center">
   <img src="https://res.cloudinary.com/mighil/image/upload/v1576760194/jot.gif"/>
 </p>
 
-This template heavily relies on  prefers-color-scheme CSS media feature. Refer to my [blog post](https://8mp.me/automatic-dark-mode-for-wordpress/) if you want to read more about that.
+This template heavily relies on  prefers-color-scheme CSS media feature. Refer to my [blog post](https://migftw.com/automatic-dark-mode-for-wordpress/) if you want to read more about that.
 
 ## Key features of Jot
 
@@ -15,7 +15,7 @@ This template heavily relies on  prefers-color-scheme CSS media feature. Refer t
 
 ## Demo
 
-Visit [my website](https://8mp.me/dark-mode-generatepress/). 
+Visit [my website](https://migftw.com/dark-mode-generatepress/). 
 
 ## How to import Jot
 

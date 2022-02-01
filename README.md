@@ -1,9 +1,5 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil)
 
-## Demo
-
-Unavailable. Sorry
-
 Jot is an ultra-minimal starter site template for [GeneratePress Premium](https://migftw.com/recommends/generatepress/). It comes with an automatic dark mode for supported systems and browsers. 
 
 ## Screenshot
@@ -13,6 +9,11 @@ Jot is an ultra-minimal starter site template for [GeneratePress Premium](https:
 </p>
 
 This template heavily relies on  prefers-color-scheme CSS media feature. Refer to my [blog post](https://migftw.com/automatic-dark-mode-for-wordpress/) if you want to read more about that.
+
+## Demo
+
+Unavailable. Sorry
+
 
 ## Key features of Jot
 
